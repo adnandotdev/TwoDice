@@ -1,0 +1,30 @@
+body {
+    background-color: #2B4F60;
+}
+img {
+    width: 80%;
+}
+
+h1 {
+    text-align: center;
+    color: #D1E8E4;
+    font-size: 6rem;
+    font-style: italic;
+    font-family: cursive;
+    text-shadow: 5px 0 #232931;
+}
+h2{
+    text-align: center;
+    color: #D1E8E4;
+    font-family: cursive;
+}
+
+#box{
+    text-align: center;
+}
+
+#sbox{
+    display: inline-block;
+    margin: auto 2rem;
+}
+
